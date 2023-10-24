@@ -1,0 +1,14 @@
+・同梱ファイルの説明
+Unityアニメーションファイル単体
+→ ○○○○.anim
+
+表情&口パクモーションも含んだモーション・Timeline一式
+→ ○○○○.unitypackage
+
+このunitypackageでは、表情、口パクの制御に【VRM Blend Shape Override】を使用し、同梱しています。
+先に、Unityプロジェクトに【UniVRM-0.XX】を入れてください。
+(例：UniVRM-0.99.0やUniVRM-0.108.0など)
+
+【VRM Blend Shape Override】の使い方はこちら。
+https://www.youtube.com/watch?v=JP2CstQHIvk
+
